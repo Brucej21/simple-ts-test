@@ -5,6 +5,6 @@ def test_double():
     assert result == 10
 
 
-def test_double():
+def test_double2():
     result = helloworld_ts.double(3)
     assert result == 6
